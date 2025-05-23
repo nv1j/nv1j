@@ -1,5 +1,5 @@
-## Hi there I'm Lio
-<h1 align="center">Welcome to my GitHub profile</h1>
+
+<h1 align="center">Hi there I'm Lio</h1>
 
 <p align="center">
   Programmer and tech enthusiast<br>
